@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534979924 source:c:\users\gavin\documents\cb\knightstour\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535310062 source:c:\users\gavin\documents\cb\knightstour\newmain.c
+
+1535310989 source:c:\users\gavin\documents\cb\knightstour\newtest.c
+	<stdio.h>
+	<stdlib.h>
+
